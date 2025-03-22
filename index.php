@@ -615,7 +615,7 @@
         alert("Pesan kamu sudah aku terima, nanti aku balas yaa");
         // Setelah alert ditampilkan, tunggu 3 detik (3000 milidetik) sebelum melakukan refresh
         setTimeout(function(){
-            window.location.href = "index.php"; 
+            window.location.href = "index.html"; 
         }, 3000); // Waktu tunda dalam milidetik (misalnya, 3000 untuk 3 detik)
     }
 </script>
